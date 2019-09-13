@@ -1,9 +1,12 @@
 {
-	"PC": ["#00838F", "Plan Común"],
-	"FI": ["#2E58A7", "Fundamentos de Informática"],
+	"PC": ["#00838F", "Ciencias Básicas"],
+	"IC":["#F78E1E", "Fundamentos de Ingeniería Civil"],
+	"FT": ["#2E58A7", "Formación Transversal"],
 	"HUM": ["#B0B91D", "Humanistas, libres y deportes"],
-	"TIN": ["#C54B73", "Transversal e Integración"],
-	"SD": ["#991B1E", "Sistemas de decisión informática"],
-	 "AN": ["#00AD5D", "Análisis Numérico"],
-	"CIV": ["#6BA8D1","Obras Civiles"]
+	"GES": ["#C54B73", "Gestión"],
+	"VI": ["#991B1E", "Vialidad"],
+	"GEO":["#FDDE15", "Geotécnia"],
+	 "ES": ["#00AD5D", "Estructuras"],
+	"AG": ["#6BA8D1", "Aguas"]
+	"FIN": ["#C0C0C0", "Optativos y proceso de titulación"]
 }
